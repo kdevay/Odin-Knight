@@ -3,7 +3,7 @@ build a function (knightMoves) that shows the shortest route from one square to 
 outputting all squares the knight will stop on along the way.
 
 Sample input:                  
-knightMoves([[3,3],[4,3])    
+knightMoves([3,3],[4,3])    
 
 Sample output:
   => You made it in 3 moves!  Here's your path:
